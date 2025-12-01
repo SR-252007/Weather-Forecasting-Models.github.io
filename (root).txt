@@ -1,0 +1,6 @@
+/ (root)
+ ├── wheather v3.html
+ ├── other files...
+git add .
+git commit -m "Added wheather v3.html"
+git push
